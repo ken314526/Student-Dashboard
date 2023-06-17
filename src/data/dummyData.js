@@ -1,0 +1,123 @@
+const data = [
+  {
+    id: "1",
+    name: "Ram",
+    nameOfSociety: "Jewan Kothi Multi State Agro Cooperative Society Ltd.",
+    address: "Uttar Pradesh",
+    state: "UTTAR PRADESH",
+    district: "BASTI",
+    dateOfRegistration: "06/06/2022",
+    areaOfOperation: "Haryana, UttarPradesh, Himachal, Punjab",
+    sectorType: "Agro",
+  },
+  {
+    id: "2",
+    name: "Shyam",
+    nameOfSociety:
+      "Bharathimanass Agriculture Cooperative Ltd. (BHARATHIMANAS)",
+    address: "Manipur",
+    state: "MANIPUR",
+    district: "BISHNUPUR",
+    dateOfRegistration: "03/06/2022",
+    areaOfOperation: "Bihar, West bengal, Odisha",
+    sectorType: "Agro",
+  },
+  {
+    id: "3",
+    name: "Mohan",
+    nameOfSociety:
+      "Youth Employability Skill Training Cooperative Educational Society Ltd.",
+    address: "PATHANAMTHITTA",
+    state: "KERALA",
+    district: "ERNAKULAM",
+    dateOfRegistration: "02/06/2022",
+    areaOfOperation: "Tamil Nadu, karnataks",
+    sectorType: "Others",
+  },
+  {
+    id: "4",
+    name: "Dinesh",
+    nameOfSociety:
+      "Jai Ratnagarbha Agriculture Multi State Cooperative Society Ltd.",
+    address: "Prayag Raj, uttar Pradesh",
+    state: "UTTAR PRADESH",
+    district: "BAREILLY",
+    dateOfRegistration: "28/05/2022",
+    areaOfOperation: "Haryana, Punajb",
+    sectorType: "Agro",
+  },
+  {
+    id: "5",
+    name: "Manmohan",
+    nameOfSociety:
+      "Shikharji Multi State Agro Processing and Marketing Cooperative Society Ltd",
+    address: "Buldana, Maharashtra",
+    state: "MAHARASHTRA",
+    district: "BULDHANA",
+    dateOfRegistration: "27/05/2022",
+    areaOfOperation: "Manipur, Meghalaya",
+    sectorType: "Agro",
+  },
+  {
+    id: "6",
+    name: "Jayesh",
+    nameOfSociety:
+      "News Agriculture Export & Marketing Cooperative society Ltd.",
+    address: "Kalkaji, Delhi",
+    state: "NEW DELHI",
+    district: "NEW DELHI",
+    dateOfRegistration: "21/05/2022",
+    areaOfOperation: "Maharashtra, Gujarat, Rajasthan",
+    sectorType: "Agro",
+  },
+  {
+    id: "7",
+    name: "Mahesh",
+    nameOfSociety:
+      "Krashnadi Multi State Vehicle Services Cooperative Society Ltd.",
+    address: "Beed, maharashtra",
+    state: "MAHARASHTRA",
+    district: "BEED",
+    dateOfRegistration: "12/05/2022",
+    areaOfOperation: "Gujarat, Rajasthan",
+    sectorType: "Others",
+  },
+  {
+    id: "8",
+    name: "Teena",
+    nameOfSociety:
+      "Lotus Multi Specialty Cooperative Hospital and Research Center Ltd.",
+    address: "Osmanabad, Maharashtra",
+    state: "MAHARASHTRA",
+    district: "BEED",
+    dateOfRegistration: "27/04/2022",
+    areaOfOperation: "Maharashtra,Goa.Karnataka, Andhra Pradesh",
+    sectorType: "Health/Hospital",
+  },
+  {
+    id: "9",
+    name: "Meena",
+    nameOfSociety:
+      "Keshavraj Multi Speciality Cooperative Hospital & Research Centre Ltd",
+    address: "Osmanabad, Maharashtra",
+    state: "MAHARASHTRA",
+    district: "OSMANABAD",
+    dateOfRegistration: "27/04/2022",
+    areaOfOperation: "Andhra Pradesh, Telangna",
+    sectorType: "Health/Hospital",
+  },
+  {
+    id: "10",
+    name: "Neena",
+    nameOfSociety:
+      "Keshavraj Multi Speciality Cooperative Hospital & Research Centre Ltd",
+    address: "Kolhaour, Maharashtra",
+    state: "MAHARASHTRA",
+    district: "KOLHAPUR",
+    dateOfRegistration: "27/04/2022",
+    areaOfOperation: "Madhya Pradesh, Chhatisgarh, Jharkhan, Bihar",
+    sectorType: "Health/Hospital",
+  },
+];
+
+export default data;
